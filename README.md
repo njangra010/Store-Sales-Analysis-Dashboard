@@ -20,7 +20,7 @@ This repo includes the PBIX plus clean source CSVs so others can reproduce the v
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Preview](dashboard/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
